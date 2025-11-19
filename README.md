@@ -1,6 +1,7 @@
 2025-11-19
 I have added English version,including executable App. 
-You are able to use the App with demo. data without dump1090.
+You are able to use the App with Demo data without dump1090.
+If you have any questions, send e-mail to "mt2967+ADS@gmail.com".
 
 2024-01-10
 This paper covers PC software development techniques in the field of factory automation (FA).
